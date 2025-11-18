@@ -24,7 +24,7 @@ A modern hosting platform built using **Next.js**, optimized for performance, UI
 
 
 
-## 🌐 Connect With Me :
+## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.rishabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-singh-patel-493686382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhsinghpatel07@gmail.com) 
 
 # 💻 Familiar Languages and Platforms :
