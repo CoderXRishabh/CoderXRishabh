@@ -1,9 +1,9 @@
 # About Me :
 🔭 Current focus: Architecting Next.js hosting platforms, automation pipelines, and robust API integrations.<br>🌱 Learning: Advanced cloud patterns, AI-assisted workflows, and observability for distributed systems.<br>💼 Open to: Collaborations on full-stack projects, cloud migrations, and infrastructure automation.
 
-## 🧩 My Projects
+## 🧩 Few Projects
 
-### 🚀 **1. Aurabyte — Hosting Platform UI + WHMCS Integration**
+### **1. Aurabyte — Hosting Platform UI + WHMCS Integration**
 A modern hosting platform built using **Next.js**, optimized for performance, UI clarity, and seamless WHMCS integration.
 
 <p align="center">
