@@ -1,6 +1,28 @@
 # About Me :
 🔭 Current focus: Architecting Next.js hosting platforms, automation pipelines, and robust API integrations.<br>🌱 Learning: Advanced cloud patterns, AI-assisted workflows, and observability for distributed systems.<br>💼 Open to: Collaborations on full-stack projects, cloud migrations, and infrastructure automation.
 
+## 🧩 My Projects
+
+### 🚀 **1. Aurabyte — Hosting Platform UI + WHMCS Integration**
+A modern hosting platform built using **Next.js**, optimized for performance, UI clarity, and seamless WHMCS integration.
+
+<p align="center">
+  <img src="https://i.ibb.co/67ynB1HL/demo1.png" alt="Aurabyte Screenshot 1" width="45%" style="border-radius:8px; margin-right:10px;"/>
+  <img src="https://i.ibb.co/B2mHwbTh/demo2.png" alt="Aurabyte Screenshot 2" width="45%" style="border-radius:8px;"/>
+</p>
+
+<p align="center">
+  <a href="https://aurabytedev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/DeltaRich/aurabyte" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
 
 ## 🌐 Connect With Me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.rishabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-singh-patel-493686382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhsinghpatel07@gmail.com) 
