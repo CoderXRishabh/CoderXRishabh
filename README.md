@@ -1,37 +1,193 @@
-# About Me :
-🔭 Current focus: Architecting Next.js hosting platforms, automation pipelines, and robust API integrations.<br>🌱 Learning: Advanced cloud patterns, AI-assisted workflows, and observability for distributed systems.<br>💼 Open to: Collaborations on full-stack projects, cloud migrations, and infrastructure automation.
+<div align="center">
 
-## 🧩 Projects
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishabh%20Singh%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20•%20Cloud%20Architect%20•%20Automation%20Engineer&descAlignY=52&descSize=18"/>
 
-### **1. Aurabyte — Hosting Platform UI + WHMCS Integration**
-A modern hosting platform built using **Next.js**, optimized for performance, UI clarity, and seamless WHMCS integration.
-
-<p align="center">
-  <img src="https://i.ibb.co/67ynB1HL/demo1.png" alt="Aurabyte Screenshot 1" width="45%" style="border-radius:8px; margin-right:10px;"/>
-  <img src="https://i.ibb.co/DPptW39j/demo3.png" alt="Aurabyte Screenshot 2" width="45%" style="border-radius:8px;"/>
+<!-- Social Badges Row -->
+<p>
+  <a href="https://linkedin.com/in/rishabh-singh-patel-493686382">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>a
+  </a>
+  <a href="https://instagram.com/coderxrishabh">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:rishabhsinghpatel07@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DeltaRich">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://aurabytedev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Preview-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/DeltaRich/aurabyte" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Architecting+scalable+cloud+solutions+%E2%98%81%EF%B8%8F;Building+next-gen+web+applications+%F0%9F%9A%80;Automating+everything+possible+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
 
+## 🎯 About Me
 
-
-## 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coderxrishabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-singh-patel-493686382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhsinghpatel07@gmail.com) 
-
-# 💻 Familiar Languages and Platforms :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-# 📊 Contributions :
-![](https://nirzak-streak-stats.vercel.app/?user=DeltaRich&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaRich&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+```yaml
+name: Rishabh Singh Patel
+located_in: India
+current_focus:
+  - Architecting Next.js hosting platforms
+  - Building automation pipelines
+  - Designing robust API integrations
+  
+learning:
+  - Advanced cloud patterns (AWS, Azure, GCP)
+  - AI-assisted development workflows
+  - Observability for distributed systems
+  
+open_to:
+  - Full-stack project collaborations
+  - Cloud migration consulting
+  - Infrastructure automation projects
+  
+fun_fact: "I automate everything, including my coffee schedule ☕"
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DeltaRich&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 ApexTask
+> **Modern Task & Productivity Platform**
+
+A sleek productivity app with task management, goal tracking, routine planning, and detailed analytics — all wrapped in a beautiful dark UI.
+
+<p align="center">
+  <img src="https://i.ibb.co/bMFHRQzW/Apex-Task-Dashboard.png" width="100%" style="border-radius: 10px;" alt="ApexTask Dashboard"/>
+</p>
+
+<p align="center">
+  <a href="https://apextask.pages.dev">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/DeltaRich/ApexTask">
+    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge"/>
+  </a>
+</p>
+
+**Tech:** `React` `Vite` `TailwindCSS` `Chart.js`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Aurabyte
+> **Hosting Platform UI + WHMCS Integration**
+
+A modern hosting platform built using Next.js, optimized for performance, UI clarity, and seamless WHMCS integration.
+
+<p align="center">
+  <img src="https://i.ibb.co/67ynB1HL/demo1.png" width="100%" style="border-radius: 10px;" alt="Aurabyte Screenshot"/>
+</p>
+
+<p align="center">
+  <a href="https://aurabytedev.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/DeltaRich/aurabyte">
+    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge"/>
+  </a>
+</p>
+
+**Tech:** `Next.js` `WHMCS` `TailwindCSS` `API Integration`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeltaRich&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaRich&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DeltaRich&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeltaRich&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeltaRich/DeltaRich/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeltaRich/DeltaRich/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeltaRich/DeltaRich/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+<p>
+  <i>I'm always excited to collaborate on innovative projects and discuss new ideas.</i>
+</p>
+
+<a href="mailto:rishabhsinghpatel07@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Drop_me_an_email-6366F1?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DeltaRich&style=for-the-badge&color=6366F1)
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
