@@ -142,20 +142,6 @@ A modern hosting platform built using Next.js, optimized for performance, UI cla
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderXRishabh/CoderXRishabh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderXRishabh/CoderXRishabh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CoderXRishabh/CoderXRishabh/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💬 Let's Connect!
 
 <p>
