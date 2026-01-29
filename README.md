@@ -14,7 +14,7 @@
   <a href="mailto:rishabhsinghpatel07@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/DeltaRich">
+  <a href="https://github.com/CoderXRishabh">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -72,7 +72,7 @@ A sleek productivity app with task management, goal tracking, routine planning, 
   <a href="https://apextask.pages.dev">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/DeltaRich/ApexTask">
+  <a href="https://github.com/CoderXRishabh/ApexTask">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge"/>
   </a>
 </p>
@@ -95,7 +95,7 @@ A modern hosting platform built using Next.js, optimized for performance, UI cla
   <a href="https://aurabytedev.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/DeltaRich/aurabyte">
+  <a href="https://github.com/CoderXRishabh/aurabyte">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge"/>
   </a>
 </p>
@@ -140,31 +140,14 @@ A modern hosting platform built using Next.js, optimized for performance, UI cla
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderXRishabh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXRishabh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DeltaRich&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeltaRich&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
 <div align="center">
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeltaRich/DeltaRich/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeltaRich/DeltaRich/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DeltaRich/DeltaRich/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderXRishabh/CoderXRishabh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderXRishabh/CoderXRishabh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CoderXRishabh/CoderXRishabh/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -185,7 +168,7 @@ A modern hosting platform built using Next.js, optimized for performance, UI cla
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeltaRich&style=for-the-badge&color=6366F1)
+![Profile Views](https://komarev.com/ghpvc/?username=CoderXRishabh&style=for-the-badge&color=6366F1)
 
 </div>
 
