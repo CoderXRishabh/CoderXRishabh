@@ -6,7 +6,7 @@
 <!-- Social Badges Row -->
 <p>
   <a href="https://linkedin.com/in/rishabh-singh-patel-493686382">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>a
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/coderxrishabh">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Architecting+scalable+cloud+solutions+%E2%98%81%EF%B8%8F;Building+next-gen+web+applications+%F0%9F%9A%80;Automating+everything+possible+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Architecting+scalable+cloud+solutions+%E2%98%81%EF%B8%8F;Building+next-gen+web+applications+%F0%9F%9A%80;Automating+everything+possible+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 </div>
